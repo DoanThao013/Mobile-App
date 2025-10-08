@@ -1,0 +1,1 @@
+This folder contains source code for Lab 02.
